@@ -5,3 +5,4 @@ black
 sphinx
 nbsphinx
 papermill
+jupyter-cache
